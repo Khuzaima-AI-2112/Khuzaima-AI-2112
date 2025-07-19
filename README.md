@@ -1,6 +1,6 @@
 <!-- GitHub Overview README -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&width=520&lines=Hi,+I'm+KhuzaimaAhmed;Python Developer |Data Scientist;Learning Cutting-edge Technologies GenAI+%7C+Agentic+AI" alt="Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00D4AA&center=true&vCenter=true&width=520&lines=Hi,+I'm+Khuzaima+Ahmed;Python+Developer+Data+Scientist;Learning+Cutting+edge+Technologies;GenAI+%7C+Agentic+AI" alt="Typing" />
 </h1>
 
 <p align="center">
@@ -16,7 +16,7 @@
 | Programming Paradigms |  Functional Programming, OOPS  |
 | Data Science |  Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn  |
 | Automations |  Web Scraping, File Manipulations  |
-| Web Frameworks |  Django, FastAPI  | 
+| Web Frameworks |  Django, FastAPI  |
 
 ---
 
