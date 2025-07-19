@@ -1,6 +1,6 @@
 <!-- GitHub Overview README -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=2664F5&center=true&vCenter=true&width=520&lines=Hi,+I'm+Khuzaima+Ahmed;Python+Developer+%7C+Data+Scientist;Cutting+edge+Technologies;GenAI+%7C+Agentic+AI" alt="Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=2664F5&center=true&vCenter=true&width=520&lines=Hi,+I'm+Khuzaima+Ahmed;Python+Developer;Leaarning;Cutting+edge+Technologies;GenAI+%7C+Agentic+AI" alt="Typing" />
 </h1>
 
 <p align="center">
