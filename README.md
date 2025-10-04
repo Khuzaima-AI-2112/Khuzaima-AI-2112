@@ -1,44 +1,51 @@
 <div id="header" align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=2664F5&center=true&vCenter=true&width=800&lines=Hi,+I'm+Khuzaima+Ahmed;Python+Developer;Exploring+Cutting-Edge+Technologies;GenerativeAI+%26+AgenticAI&weight=700" alt="Typing Animation"/>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=2664F5&center=true&vCenter=true&width=800&lines=Hi,+I'm+Khuzaima+Ahmed;Python+Developer+%26+AI+Automation+Specialist;Building+Intelligent+Systems;Generative+%26+Agentic+AI&weight=700" alt="Typing Animation"/>
 </div>
 
 <div align="center">
   <a href="https://linkedin.com/in/khuzaima-ahmed/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:khuzaimai.design@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  </div>
+</div>
 
 ---
 
 ### 👨‍💻 About Me
 
-<p>
-  I'm a passionate Python Developer with a strong interest in building intelligent, scalable solutions. My current journey is focused on the exciting frontiers of Generative and Agentic AI, where I'm exploring how to create more autonomous and creative systems.
-</p>
+Hi! I'm a Python Developer passionate about helping businesses unlock the power of AI through intelligent automation and scalable solutions. I work at the intersection of development and AI, creating everything from smart workflows to sophisticated AI agents that can reason and remember.
 
-- 🌱 I’m currently diving deep into Large Language Models (LLMs), RAG pipelines, and agentic frameworks.
-- 👯 I’m looking to collaborate on innovative open-source AI projects.
-- 💬 Ask me about **Python, FastAPI, Machine Learning, or anything AI-related**!
-- 📫 How to reach me: **khuzaimai.design@gmail.com**
+**What I'm focused on:**
+- 🤖 Building AI agents with memory and context understanding
+- 🔗 Creating automated workflows that save time and reduce manual work
+- 🧠 Exploring Large Language Models, RAG pipelines, and agentic frameworks
+- 🚀 Developing full-stack solutions from backend infrastructure to user interfaces
+
+**Let's collaborate!** I'm always looking to work on innovative open-source AI projects. Feel free to reach out at **khuzaimai.design@gmail.com** if you want to chat about Python, AI, automation, or building something cool together.
+
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Khuzaima-Ahmed&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
-### 🚀 Current Work Areas
-| Area | Stack |
-|------|-------|
-| Programming Paradigms |  Functional Programming, OOPS  |
-| Data Science |  Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn  |
-| Automations |  Web Scraping, File Manipulations  |
-| Web Frameworks |  Django, FastAPI  |
+### 🛠️ Tech Stack & Skills
+
+| Area | Technologies |
+|------|--------------|
+| **AI & Automation** | LLMs, RAG Pipelines, Agentic AI, n8n, MCP Servers |
+| **Backend Development** | Python, FastAPI, Django, REST APIs |
+| **Data & Analysis** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
+| **Database & Infrastructure** | Supabase, PostgreSQL, Vector Search |
+| **Integration & Tools** | API Integration, Web Scraping, Stripe Payments |
 
 ---
 
-### 📌 Pinned repos
-| | |
-|-|-|
-| 📊 [`job-market-dashboard`](https://github.com/Khuzaima-AI-2112/job-market-dashboard) | WebScrapping & Analyzing Latest Job trends |
-| 🤖 [`ATM-Machine-System`](https://github.com/Khuzaima-AI-2112/ATM_Machine_System) | Object Oriented Programming Paradigms & Streamlit UI |
+### 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 📊 [`job-market-dashboard`](https://github.com/Khuzaima-AI-2112/job-market-dashboard) | Web scraping and analysis of latest job market trends |
+| 🤖 [`ATM-Machine-System`](https://github.com/Khuzaima-AI-2112/ATM_Machine_System) | Object-oriented banking system with Streamlit UI |
 
 ---
 
+💡 *Currently exploring the frontiers of autonomous AI systems and always open to exciting collaborations!*
