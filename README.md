@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=2664F5&center=true&vCenter=true&width=800&lines=Hi,+I'm+Khuzaima+Ahmed;Python+Developer+%26+AI+Automation+Specialist;Building+Intelligent+Systems;Generative+%26+Agentic+AI&weight=700" alt="Typing Animation"/>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=2664F5&center=true&vCenter=true&width=800&lines=Hi,+I'm+Khuzaima+Ahmed;Python+Developer+%26+AI+Automation+Specialist;Exploring+Cutting-Edge+Technologies;Agentic+AI+%26+Generative+AI&weight=700" alt="Typing Animation"/>
 </div>
 
 <div align="center">
@@ -31,7 +31,7 @@ Hi! I'm a Python Developer passionate about helping businesses unlock the power 
 
 | Area | Technologies |
 |------|--------------|
-| **AI & Automation** | LLMs, RAG Pipelines, Agentic AI, n8n, MCP Servers |
+| **AI & Automation** | LLMs, RAG Pipelines, GenAI, n8n, MCP Servers, AI Applications |
 | **Backend Development** | Python, FastAPI, Django, REST APIs |
 | **Data & Analysis** | Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn |
 | **Database & Infrastructure** | Supabase, PostgreSQL, Vector Search |
