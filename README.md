@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Khuzaima Ahmed
 
-### 🤖 AI Voice & Automation Engineer | Full-Stack AI Developer | UI/UX Enthusiast
+### 🤖 AI Voice & Automation Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khuzaima-ahmed/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khuzaima-AI-2112)
