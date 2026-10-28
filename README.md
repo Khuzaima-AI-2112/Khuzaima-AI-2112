@@ -1,64 +1,45 @@
-<div align="center">
-  
-# 👋 Hi, I'm Khuzaima Ahmed
+# Khuzaima Ahmed
 
-### 🤖 AI Voice & Automation Engineer
+## Automation developer | n8n, API integrations & LLM applications
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khuzaima-ahmed/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khuzaima-AI-2112)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khuzaimai.design@gmail.com)
+I build workflows that connect business tools and reduce repetitive work. My projects include CRM synchronization, AI-assisted content publishing, and a legal chatbot built with Python and FastAPI.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Khuzaima-AI-2112&color=blueviolet&style=for-the-badge)
+I'm based in Karachi, Pakistan, and open to remote automation and AI integration roles. I'm also studying Computer Science at Virtual University of Pakistan.
 
-</div>
+## Selected projects
 
----
+### [Pinseeker CRM automation](https://github.com/Khuzaima-AI-2112/pinseeker-ghl-n8n-automation)
 
-## 🚀 About Me
+n8n workflows connecting Square, Twenty CRM, GoHighLevel, and USchedule imports. The workflows match contacts by phone or email, route records through create/update steps, and sync CRM data on a schedule. The scheduled sync uses GraphQL pagination, JavaScript data mapping, and retries on the outbound GHL request.
 
-I'm an **AI-driven automation specialist** passionate about building intelligent systems that solve real-world problems. My expertise spans **AI Voice Agents**, **Workflow Automation**, and **Full-Stack AI Applications** with a strong foundation in UI/UX design.
+### [ThaiLawOnline chatbot](https://github.com/Khuzaima-AI-2112/ThaiLawOnline-Chatbot)
 
-- 🎓 **Computer Science Student** at Virtual University of Pakistan
-- 🌍 Based in **Karachi, Pakistan** | Open to **International Remote Opportunities**
-- 🔧 Building production-ready AI solutions with **n8n**, **LLMs**, and **Voice AI platforms**
-- 💡 M-shaped expertise: AI automation + development + design
-- 🎨 Former **UI/UX Design Intern** at NgoBase.org (Cloud Beavers Tech Solutions, Canada)
+A Python/FastAPI assistant that retrieves legal documents and uses multiple LLMs through OpenRouter. It collects responses in parallel, asks models to rank anonymized answers, and synthesizes a final response. The repository includes a WordPress integration, API-key authentication, request timeouts, handling for failed model responses, and Nginx/systemd deployment configuration.
 
----
+### [E-commerce social publishing automation](https://github.com/Khuzaima-AI-2112/social-media-automation-ecommerce-jewelry-brand)
 
-## 🔭 Currently Working On
+A scheduled n8n workflow that reads product feeds, generates content with OpenAI, and publishes to Facebook and Instagram. Google Sheets stores product status and publishing results. A separate error workflow records execution details and sends email alerts; selected API requests have retries configured.
 
-- 🎙️ Building **AI Voice Agents** for customer service and automation
----
+### [Telegram subscription and referral bot](https://github.com/Khuzaima-AI-2112/crypto-signals-telegram-bot)
 
-## 💼 Open to Opportunities
+A portfolio project covering registration, subscription payments, referral tracking, and admin workflows with n8n. It includes Stripe and NOWPayments integrations, Google Sheets records, and documentation for API configuration and deployment.
 
-I'm actively seeking roles in:
-- 🤖 **AI Voice Engineer**
-- ⚡ **AI Automation Developer**
-- 🔗 **AI Integration Specialist**
-- 🚀 **Full-Stack AI Developer**
+## Tools I work with
 
-**Status:** Open to full-time, contract, and freelance opportunities worldwide!
+- **Automation:** n8n, Make, Zapier, webhooks, scheduled jobs, REST APIs, GraphQL, JSON/XML, and data mapping.
+- **Development and AI:** Python, JavaScript, FastAPI, OpenAI, OpenRouter, RAG, and MySQL.
+- **Business integrations:** GoHighLevel, Twenty CRM, Square, Google Sheets, Meta Graph API, and WordPress.
+- **Voice AI:** VAPI, Synthflow, Retell, Deepgram, Whisper, AssemblyAI, ElevenLabs, Cartesia, and OpenAI TTS.
 
----
+I also maintain a [collection of n8n workflow templates](https://github.com/Khuzaima-AI-2112/n8n-automation-templates) covering business automation, RAG, research, and social media. These are curated templates that need credentials and environment-specific configuration before use.
 
-### **Voice AI Platforms**
-- 🎤 **Speech-to-Text:** DeepGram, Whisper, AssemblyAI
-- 🧠 **AI Brain:** ChatGPT, Claude, Gemini
-- 🔊 **Text-to-Speech:** ElevenLabs, Cartesia, OpenAI TTS
-- 🌐 **All-in-One:** VAPI, Synthflow, Retell
+## Background and contact
 
+My background includes a UI/UX design internship at NgoBase.org (Cloud Beavers Tech Solutions, Canada). I'm currently working on AI voice agents for customer service and automation.
 
-## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/khuzaima-ahmed/)
+- [GitHub](https://github.com/Khuzaima-AI-2112)
+- [Email](mailto:khuzaimai.design@gmail.com)
+- WhatsApp: +92 316 3437456
 
-I'm always interested in collaborating on innovative AI projects or discussing opportunities!
-
-- 💼 **LinkedIn:** [linkedin.com/in/khuzaima-ahmed](https://www.linkedin.com/in/khuzaima-ahmed/)
-- 📧 **Email:** khuzaimai.design@gmail.com
-- 🎨 **Design Portfolio:** [behance.net/khuzaima-ahmed](https://www.behance.net/)
-- 📱 **WhatsApp:** +92 316 3437456
-
----
-
+Open to full-time, contract, and freelance opportunities.
