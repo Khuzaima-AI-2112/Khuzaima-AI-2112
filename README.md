@@ -4,7 +4,7 @@
 
 I build production n8n workflows and LLM-powered tools that connect CRMs, payment systems and business apps, with error handling, retries and alerts built in from the start. I also build MVPs end to end.
 
-I'm based in Karachi, Pakistan (UTC+5), and open to remote contract roles in AI automation and MVP development. I'm also studying Computer Science at Virtual University of Pakistan.
+I'm based in Karachi, Pakistan (UTC+5), and open to remote contract roles in AI automation and MVP development. I'm also studying for an HND in Computing at the International Centre of Excellence (ICE), with Buckinghamshire New University (BNU).
 
 ## Client work (Aug 2026 – present)
 
