@@ -1,10 +1,18 @@
 # Khuzaima Ahmed
 
-## Automation developer | n8n, API integrations & LLM applications
+## AI Automation Engineer | n8n, LLM agents & API integrations
 
-I build workflows that connect business tools and reduce repetitive work. My projects include CRM synchronization, AI-assisted content publishing, and a legal chatbot built with Python and FastAPI.
+I build production n8n workflows and LLM-powered tools that connect CRMs, payment systems and business apps, with error handling, retries and alerts built in from the start. I also build MVPs end to end.
 
-I'm based in Karachi, Pakistan, and open to remote automation and AI integration roles. I'm also studying Computer Science at Virtual University of Pakistan.
+I'm based in Karachi, Pakistan (UTC+5), and open to remote contract roles in AI automation and MVP development. I'm also studying Computer Science at Virtual University of Pakistan.
+
+## Client work (Aug 2026 – present)
+
+Freelance AI Automation & MVP Engineer. I work spec-first: a written spec and acceptance checks before the build, then a tested hand-off.
+
+- **Softomedia:** retail media platform for ads on in-store screens. Brand slot booking with per-day schedules, a retailer pricing calendar, Proof of Play recording, per-slot invoicing, and a Tech Ops dashboard with remote screen restart. Raised the frontend test-coverage gate to 90%.
+- **The Hammer:** session-capture and AI reporting platform on Google Cloud. Capture pipeline with queueing, backoff and retries, Vertex AI storyboard and report generation with narration and PDF export, OAuth hardening, and Docker / Cloud Build deploys.
+- **GhostCoach:** web app for an AI pricing coach. Guided pricing audits that end in a recommended action with a figure and deadline, 90-day audit cooldowns, plan-based access and availability emails, on a Supabase backend.
 
 ## Selected projects
 
@@ -27,19 +35,18 @@ A portfolio project covering registration, subscription payments, referral track
 ## Tools I work with
 
 - **Automation:** n8n, Make, Zapier, webhooks, scheduled jobs, REST APIs, GraphQL, JSON/XML, and data mapping.
-- **Development and AI:** Python, JavaScript, FastAPI, OpenAI, OpenRouter, RAG, and MySQL.
-- **Business integrations:** GoHighLevel, Twenty CRM, Square, Google Sheets, Meta Graph API, and WordPress.
-- **Voice AI:** VAPI, Synthflow, Retell, Deepgram, Whisper, AssemblyAI, ElevenLabs, Cartesia, and OpenAI TTS.
+- **AI and LLMs:** OpenAI, OpenRouter, Vertex AI, RAG, and AI agents.
+- **Development:** Python, JavaScript, FastAPI, Node.js, React, MySQL, and Supabase.
+- **Business integrations:** GoHighLevel, Twenty CRM, Square, Google Sheets, Meta Graph API, WordPress, and Stripe.
+- **Deployment:** Linux servers (Nginx, systemd), Docker, Google Cloud Build, and Cloud Run.
 
 I also maintain a [collection of n8n workflow templates](https://github.com/Khuzaima-AI-2112/n8n-automation-templates) covering business automation, RAG, research, and social media. These are curated templates that need credentials and environment-specific configuration before use.
 
-## Background and contact
-
-My background includes a UI/UX design internship at NgoBase.org (Cloud Beavers Tech Solutions, Canada). I'm currently working on AI voice agents for customer service and automation.
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/khuzaima-ahmed/)
 - [GitHub](https://github.com/Khuzaima-AI-2112)
 - [Email](mailto:khuzaimai.design@gmail.com)
 - WhatsApp: +92 316 3437456
 
-Open to full-time, contract, and freelance opportunities.
+Open to long-term remote contract and freelance work.
